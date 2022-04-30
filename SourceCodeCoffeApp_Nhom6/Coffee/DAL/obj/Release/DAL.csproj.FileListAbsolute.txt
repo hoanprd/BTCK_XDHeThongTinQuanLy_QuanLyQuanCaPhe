@@ -1,0 +1,14 @@
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Release\DAL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Release\DAL.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Release\PUBLIC.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Release\PUBLIC.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\obj\Release\DAL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\obj\Release\DAL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Release\DAL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Release\DAL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Release\PUBLIC.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Release\PUBLIC.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\obj\Release\DAL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\obj\Release\DAL.pdb

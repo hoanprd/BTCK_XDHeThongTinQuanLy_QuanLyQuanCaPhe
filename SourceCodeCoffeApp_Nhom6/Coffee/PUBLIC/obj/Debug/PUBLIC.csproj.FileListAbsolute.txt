@@ -1,0 +1,15 @@
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.csprojResolveAssemblyReference.cache
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\PUBLIC\obj\Debug\PUBLIC.pdb

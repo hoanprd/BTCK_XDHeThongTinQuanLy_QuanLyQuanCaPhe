@@ -1,0 +1,21 @@
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\DAL.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\DAL.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\DAL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\DAL.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\PUBLIC.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\PUBLIC.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\DAL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\DAL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\PUBLIC.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\bin\Debug\PUBLIC.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\DAL\obj\Debug\DAL.pdb
