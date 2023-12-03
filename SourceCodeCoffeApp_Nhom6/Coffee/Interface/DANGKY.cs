@@ -56,11 +56,13 @@ namespace Interface
             tk_public.IDNV = "NV" + manv.ToString();
             tk_bul.insert_taikhoan(tk_public);
         }
-        string duongdandk = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+        //string duongdandk = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+        string duongdandk = Application.StartupPath;
         private void inserthinh()
         {
             HINHNV_PUBLIC hinhnv_public = new HINHNV_PUBLIC();
-            string duongdan = duongdandk + @"\DatabaseCafe\AddIco.png"; // có thể lỗi
+            //string duongdan = duongdandk + @"\DatabaseCafe\AddIco.png"; // có thể lỗi
+            string duongdan = duongdandk + @"\AddIco.png";
             // FileStream để đọc các tập tin hình.
             FileStream fs = new FileStream(duongdan, FileMode.Open, FileAccess.Read);
             // Tạo mảng kiểu byte với cái kích thước của Filestream
@@ -182,21 +184,17 @@ namespace Interface
             }
             else
             {
-               // try
-               // {
-                    insertnhanvien();
-                    inserttaikhoan();
-                    inserthinh();
-                    this.Close();
-               // }
-                //catch (SqlException loi)
-                //{
-                //    if (loi.Message.Contains("Violation of PRIMARY KEY constraint 'PK_TENTK'"))
-                //    {
-                //        MessageBox.Show("Tên tài khoản bị trùng.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                //        DeleteNhanVien_Loi();
-                //    }
-                //}
+                insertnhanvien();
+                inserttaikhoan();
+                inserthinh();
+                string duongdan = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+                string checkgiatridangky = File.ReadAllText(duongdan + @"\DatabaseCafe\checkdk.txt");
+                if (checkgiatridangky != "dashow")
+                {
+                    string filename = duongdan + @"\DatabaseCafe\checkdk.txt";
+                    File.WriteAllText(filename, "dashow");
+                }
+                this.Close();
             }
         }
         private void DeleteNhanVien_Loi()

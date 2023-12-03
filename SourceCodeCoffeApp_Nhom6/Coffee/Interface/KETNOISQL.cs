@@ -41,12 +41,6 @@ namespace Interface
             btketnoi.ForeColor = SystemColors.ControlText;
         }
 
-        private void txttensv_Click(object sender, EventArgs e)
-        {
-            txttensv.DataSource = dt;
-            txttensv.DisplayMember = "Name";
-        }
-
         private void txttencsdl_Click(object sender, EventArgs e)
         {
             try
@@ -110,7 +104,8 @@ namespace Interface
                 try
                 {
                     string sqlConnectionString = @"Data Source=" + txttensv.Text + ";Integrated Security=True";
-                    FileInfo file = new FileInfo(duongdan + @"\DatabaseCafe\CSDLCAFE.sql");
+                    //FileInfo file = new FileInfo(duongdan + @"\DatabaseCafe\CSDLCAFE.sql");
+                    FileInfo file = new FileInfo(Application.StartupPath + @"\CSDLCAFE.sql");
                     string script = file.OpenText().ReadToEnd();
                     SqlConnection conn = new SqlConnection(sqlConnectionString);
                     Server server = new Server(new ServerConnection(conn));
@@ -119,7 +114,7 @@ namespace Interface
                 }
                 catch
                 {
-                    MessageBox.Show("Cơ sở dữ liệu đã tồn tại trong máy.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Không thể tạo cơ sở dữ liệu vui lòng kiểm tra lại đã cài đặt SQL Server hoặc cơ sở dữ liệu đã tồn tại trong máy.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
             }
         }

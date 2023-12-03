@@ -115,7 +115,7 @@ namespace Interface
         {
             if (checkgiatridangky != "dashow")
             {
-                File.WriteAllText(filename, "dashow");
+                //File.WriteAllText(filename, "dashow");
                 DANGKY dk = new DANGKY();
                 dk.ShowDialog();
             }
